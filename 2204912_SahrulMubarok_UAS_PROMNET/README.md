@@ -1,6 +1,6 @@
 # Sistem Daftar Puskesmas Sederhana - UAS Pemrograman Internet
 
-Assalamu'alaikum Warahmatullahi Wabarakatuh,
+Assalamu'alaikum Warahmatullahi Wabarakatuh
 
 Saya, Sahrul Mubarok (NIM: 2204912), mahasiswa Program Studi Pendidikan Ilmu Komputer 3A, Universitas Pendidikan Indonesia, sedang menjalani semester 3. Repository ini telah saya buat sebagai bagian dari tugas Ujian Akhir Semester (UAS) mata kuliah Pemrograman Internet, yang diampu oleh Bapak Erlangga, S.Kom., M.T.
 
